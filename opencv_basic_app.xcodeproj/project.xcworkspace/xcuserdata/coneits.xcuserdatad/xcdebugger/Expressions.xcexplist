@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RecogVC viewDidLoad]:RecogVC.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.selected_image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[TransparentDrawingView drawRect:]:TransparentDrawingView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "points">
+            </PersistentString>
+            <PersistentString
+               value = "vert">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
